@@ -1,0 +1,12 @@
+# ---- BIG DATA (do not commit) ----
+Inputs/*.tif
+Inputs/*.tif.aux.xml
+outputs/rasters/*.tif
+outputs/rasters/*.tif.aux.xml
+
+# ---- Python / IDE ----
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.DS_Store

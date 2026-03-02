@@ -1,0 +1,2 @@
+threshold_m,pixel_area_m2,valid_pixel_count,dod_min_m,dod_max_m,dod_mean_m,erosion_area_m2,deposition_area_m2,erosion_volume_m3_signed,deposition_volume_m3,erosion_volume_m3_magnitude,net_volume_m3_dep_minus_ero
+0.1,1.0,1895198,-7.02801513671875,9.002227783203125,0.172162634032752,105311.0,1191342.0,-46587.648498535156,347429.08349609375,46587.648498535156,300841.4349975586
